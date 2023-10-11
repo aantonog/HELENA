@@ -1,1 +1,1 @@
-# HELENA---A-Greek-AI-Voice-Assistant
+# HELENA - A Greek A.I. Voice Assistant
